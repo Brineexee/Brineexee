@@ -15,7 +15,7 @@ _If I’m not coding, I’m either breaking games with mods or building somethin
 - 🔭 I'm currently working on projects using JavaScript, C#, and Python and many other languages.
 - 🌱 I'm expanding my skills in web development and 3D modeling. I’m also looking to get into hardware
 - 🎓 I believe there's always something new to learn
-- 🌍 I speak Italian, English, French, Japanese, and I've even got some Latin under my belt.
+- 🌍 I speak Italian (Native), English (Advanced), French and Japanese (Simple)
 
 ### Connect with Me
 
