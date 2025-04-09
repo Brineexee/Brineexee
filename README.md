@@ -10,6 +10,7 @@
 ### About Me
 
 I'm a developer who loves modding and programming as a whole. I enjoy testing new technologies, experimenting with different languages, and creating fun projects
+<br/>
 _If I’m not coding, I’m either breaking games with mods or building something just for the fun of it._
 
 - 🔭 I'm currently working on projects using JavaScript, C#, and Python and many other languages.
