@@ -7,7 +7,9 @@
   </a>
 </p>
 
-<a href="https://wordleme-gules.vercel.app/play?user=Brineexee"><img src="https://wordleme-gules.vercel.app/board.svg?user=Brineexee" alt="Wordle" width="440"></a>
+<center>
+<a href="https://wordleme-gules.vercel.app/play?user=Brineexee"><img src="https://wordleme-gules.vercel.app/board.svg?user=Brineexee" alt="Wordle" width="240"></a>
+</center>
 
 ### About Me
 
