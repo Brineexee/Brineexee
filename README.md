@@ -7,6 +7,8 @@
   </a>
 </p>
 
+<a href="https://wordleme-gules.vercel.app/play?user=Brineexee"><img src="https://wordleme-gules.vercel.app/board.svg?user=Brineexee" alt="Wordle" width="440"></a>
+
 ### About Me
 
 I'm a developer who loves modding and programming as a whole. I enjoy testing new tech, experimenting with different programming languages, and creating fun projects as personal challenges 
