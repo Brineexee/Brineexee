@@ -7,31 +7,40 @@
   </a>
 </p>
 
-<center>
-<a href="https://wordleme-gules.vercel.app/play?user=Brineexee"><img src="https://wordleme-gules.vercel.app/board.svg?user=Brineexee" alt="Wordle" width="240"></a>
-</center>
+<table>
+  <tr>
+    <td width="280" valign="top" align="center">
+      <a href="https://wordleme-gules.vercel.app/play?user=Brineexee">
+        <img src="https://wordleme-gules.vercel.app/board.svg?user=Brineexee" alt="Wordle" width="260">
+      </a>
+    </td>
 
-### About Me
+    <td valign="top">
+      <h3>About Me</h3>
+      <p>
+        I'm a developer who loves modding and programming as a whole. I enjoy testing new tech, experimenting with different programming languages, and creating fun projects as personal challenges.
+        <br/>
+        If I’m not coding, I’m either breaking games with mods or building something just for the fun of it.
+      </p>
+      <ul>
+        <li>🔭 I'm currently working on projects using JavaScript, C#, and Python and many other languages.</li>
+        <li>🌱 I'm expanding my skills in web development and 3D modeling. I’m also looking to get into hardware.</li>
+        <li>🎓 I believe there's always something new to learn.</li>
+        <li>🌍 I speak Italian (Native), English (Advanced), French and Japanese (Simple).</li>
+      </ul>
 
-I'm a developer who loves modding and programming as a whole. I enjoy testing new tech, experimenting with different programming languages, and creating fun projects as personal challenges 
-<br/>
-If I’m not coding, I’m either breaking games with mods or building something just for the fun of it.
-
-- 🔭 I'm currently working on projects using JavaScript, C#, and Python and many other languages.
-- 🌱 I'm expanding my skills in web development and 3D modeling. I’m also looking to get into hardware
-- 🎓 I believe there's always something new to learn
-- 🌍 I speak Italian (Native), English (Advanced), French and Japanese (Simple)
-
-### Connect with Me
-
-<p align="left">
-  <a href="https://discord.com/users/421399233606713376" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="https://www.youtube.com/@Brineexee" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-</p>
+      <h3>Connect with Me</h3>
+      <p>
+        <a href="https://discord.com/users/421399233606713376" target="_blank">
+          <img src="https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+        </a>
+        <a href="https://www.youtube.com/@Brineexee" target="_blank">
+          <img src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ### My Skills
 
