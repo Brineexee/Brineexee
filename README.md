@@ -14,14 +14,6 @@
         <img src="https://wordleme-gules.vercel.app/board.svg?user=Brineexee" alt="Wordle" width="260">
       </a>
     </td>
-
-   <table>
-  <tr>
-    <td width="280" valign="top" align="center">
-      <a href="https://wordleme-gules.vercel.app/play?user=Brineexee">
-        <img src="https://wordleme-gules.vercel.app/board.svg?user=Brineexee" alt="Wordle" width="260">
-      </a>
-    </td>
     <td valign="top">
       <h3>About Me</h3>
       <p>
