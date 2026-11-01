@@ -15,6 +15,13 @@
       </a>
     </td>
 
+   <table>
+  <tr>
+    <td width="280" valign="top" align="center">
+      <a href="https://wordleme-gules.vercel.app/play?user=Brineexee">
+        <img src="https://wordleme-gules.vercel.app/board.svg?user=Brineexee" alt="Wordle" width="260">
+      </a>
+    </td>
     <td valign="top">
       <h3>About Me</h3>
       <p>
@@ -28,7 +35,6 @@
         <li>🎓 I believe there's always something new to learn.</li>
         <li>🌍 I speak Italian (Native), English (Advanced), French and Japanese (Simple).</li>
       </ul>
-
       <h3>Connect with Me</h3>
       <p>
         <a href="https://discord.com/users/421399233606713376" target="_blank">
